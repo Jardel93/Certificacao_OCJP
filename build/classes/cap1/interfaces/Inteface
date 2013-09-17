@@ -1,0 +1,20 @@
+Inteface é apenas um contrato
+
+Uma interface é uma class 100% abstrada e não pode ter o modificador FINAL em seus metodos
+Mas podemos ter variaveis deis de que seja constantes.
+
+Interface: Todos os seus métodos deverá ser abstract
+Abstrada: Nao obrigatoriamente todos os seus métodos deve ser abstract
+
+Constantes: public, static e final.
+
+O valor de uma constante nao poderá ser alterado
+
+Interface nao implementa outra inteface, apenas extends outra
+
+Interface sao implementadas por class
+
+
+As classes que implementa a interface obrigatoriamente herda todos os métodos dessa interface e todos esses metodos
+deve ter o modificador public para que funcione perfeitamente
+
