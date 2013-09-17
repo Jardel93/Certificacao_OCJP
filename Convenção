@@ -1,0 +1,29 @@
+É apenas uma forma organizada de você desenvolver sua sintaxe, porém nada obriga a
+usar algo diferente. Lembrando que a convenção é a mais utilizada por todos os bons
+programadores Java.
+
+Veja o seguinte:
+
+· Constantes: as variáveis declaradas como final, static e do tipo enum devem estar
+em maiúsculo.
+
+· Variáveis: devem iniciar com letras minúsculas. No caso de nome composto, a
+primeira letra será em maiúsculo.
+
+· Métodos: a primeira letra deve ser minúscula e seguir o padrão JavaBeans,onde
+este diz que para obter algo de um método você usa get, e para fazer algo usamos set
+
+· Classes/Interface: as primeiras letras devem ser maiúsculas e as demais
+minúsculas. Se formarem um nome composto, o início de cada nome deve ser com letra
+maiúscula.
+
+Java Bean Nomeação
+A nomeação foi criada para ajudar desenvolvedores a criar componentes Java de fácil
+interpretação para outros programadores.
+· Boolean: is ou get
+· Chamada: set devem usar argumentos ou não e devem retornar um tipo void
+· Obter: get - não pode ter argumentos, deve retornar um tipo e ser um método
+public (set e get)
+
+
+Via: Internet (Autor nao identificado)
