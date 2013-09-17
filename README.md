@@ -1,4 +1,6 @@
 Certificacao_OCJP
 =================
 
-Hoje começo meus estudos para certificação OCJP.
+Hoje 17/09/2013 comeco meus estudos para certificacao OCJP.
+
+
