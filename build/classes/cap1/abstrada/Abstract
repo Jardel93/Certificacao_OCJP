@@ -1,0 +1,19 @@
+Jamais utilizar FINAL e ABSTRACT juntos tanto para as classes quanto para os metodos.
+		
+Exemplo:
+
+Vamos imaginar que temos uma classe Veiculo que tem metodos abstrado.
+Obrigatoriamente a classe Veiculo ela tem que ser abstrada pois ela tem um metodo abstrado.
+
+Inverso: Se temos uma classe Veiculo do tipo abstrada
+Nao obrigatoriamente temos um metodo abstrado.
+
+Declaramos uma classe abstrada como temos algo imaginario ou seja algo que nao faz sentido ser instanciado
+pois lembramos que uma classe abstrada nao deve ser instanciada.
+
+Nao faz sentido eu instanciar veiculo e passar valores para ele se eu nao sei o que é um veiculo. 
+Na verdade eu ate sei que um veiculo é um carro uma moto um caminhao, mas eu ja vou ter class para cada tipo de veiculo.
+
+Por isso declaramos uma classe Veiculo como abstrada e as sub-class herda todos os atributos e metodos da classe veiculo.
+
+ 
